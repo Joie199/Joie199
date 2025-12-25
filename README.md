@@ -74,8 +74,8 @@ A collection of smaller projects exploring frontend UI, API integration, and sys
 ## 📫 Contact
 
 - GitHub: https://github.com/Joie199
-- Website: (add when available)
-- Email: (add if you want public contact)
+- Website: Panafricanbitcoin.com
+- Email: yohannes@panafricanbitcoin.com
 
 ---
 
